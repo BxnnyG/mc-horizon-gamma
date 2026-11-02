@@ -6,7 +6,7 @@ priority = 100
 # Uses the night vision the renderer reads and the message over the hotbar,
 # beside the hook points: pinned to the commit it was built against.
 [compatibility]
-horizon_revision = "d91cab68ded29bd2b004f7050c468fb98c41a00b"
+horizon_revision = "c9d474dd9116e84c243f8992d75c11314df56f06"
 
 [[module]]
 id = "runtime"
