@@ -17,7 +17,7 @@ horizon-launcher native-build --trust-native-code
 
 Native mods run with full access to your computer. Read the source first.
 
-Pinned to Horizon `c9d474d` (Nightly 2026-11-01).
+Pinned to Horizon `fdc87ae` (Nightly 2026-11-08).
 
 ## License
 
